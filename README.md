@@ -6,6 +6,8 @@ I have used 2 datasets from kaggle.com here and added them so that i can have go
 The link to the Dataset:- 
   1. https://www.kaggle.com/datasets/yasserh/wine-quality-dataset
   2. https://www.kaggle.com/datasets/rajyellow46/wine-quality
+
+
 So basically I have used the liberaries like pandas, sckit-learn and matplotlib which come handy when you need to use the graphs.
 I have applied linear regression on the model and after checking the accuracy it found out to be 0.5547 which is equal to 55%.
 Then I have applied the random forest classsifier on the model to classify the data properly to improve the accuracy of the model.
